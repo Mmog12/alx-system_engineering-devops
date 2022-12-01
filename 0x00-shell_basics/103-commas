@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ma
+ls --indicator-style=slash -m
